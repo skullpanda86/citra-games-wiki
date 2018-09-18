@@ -1,0 +1,9 @@
+title = "SHIN ATELIER RORONA: HAJIMARI NO MONOGATARI THE ALCHEMIST OF ARLAND"
+description = "a world famous alchemist from Arlandto improve her alchemy skills and defeat all the scarymonsters with her friends, this time, with the new redesigned system,players will be able to use grid for measuring the attack range and come up with better tactics in the battlefield."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "000400000015CB00"
+region = "jpn"
+release_date = "2015-06-04"
